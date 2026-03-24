@@ -1,19 +1,24 @@
 # Grecia_Vega_vehicles_env
+
 Esta aplicación web permite explorar un conjunto de datos de anuncios de venta de autos.
 
-## Funcionalidades:
-- Histograma del odómetro
-- Gráfico de dispersión entre precio y odómetro
-- Interacción mediante casillas de verificación
+## 🔗 Link del dashboard
+https://grecia-vega-vehicles-env.onrender.com/
 
-## Tecnologías usadas:
+## 🚀 Funcionalidades
+- Histograma del odómetro
+- Gráfico de dispersión (precio vs odómetro)
+- Interacción con casillas de verificación
+
+## 🛠️ Tecnologías
 - Python
 - Streamlit
 - Pandas
 - Plotly
 
-## Cómo ejecutar la app
-streamlit run app.py
+## ▶️ Cómo ejecutar
+1. Instalar dependencias:
+pip install -r requirements.txt
 
-## Dataset
-El dataset utilizado es vehicles_us.csv
+2. Ejecutar:
+streamlit run app.py
